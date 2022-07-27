@@ -1,3 +1,5 @@
 # hello-world
 my first github repository
-SNHU graduate class of 2017
+ readme-edits
+SNHU class of 2017
+ main
